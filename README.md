@@ -120,10 +120,6 @@ Se puede conectar la fuente de voltaje colocando en la punta 5 el lado positivo 
 
 ![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2042.jpg)
 
-44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
-
-![](
-
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
 ![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2046.jpg)
@@ -137,7 +133,7 @@ a) I
 b)V_T 
 c) El valor de cada resistor
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2050%20S2.jpg)
 
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
@@ -153,15 +149,16 @@ Puede que se presente un resistor abierto, en ese caso se medirá el voltaje dir
 
 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2058.jpg)
 
+Las resistencias R12, R9, R5 y R3 están conectadas en serie en las puntas, por lo tanto, la resistencia total es sumatoria de estas sería 185 kΩ. 
 
 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
 (a) ¿Qué sucedió?
 (b) Específicamente, ¿qué debe hacerse para arreglar el problema?
 (c) ¿Con qué voltaje ocurrió la falla?
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2060.jpg)
 
 SECCIÓN 6-1
 
@@ -187,7 +184,7 @@ SECCIÓN 6-1
 
 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un corta circuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2012%20S2.jpg)
 
 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
 
@@ -223,7 +220,7 @@ SECCIÓN 6-1
 
 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2032%20S2.jpg)
 
 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
 
@@ -231,23 +228,27 @@ SECCIÓN 6-1
 
 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM  50 Ω).
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2036%20S2.jpg)
 
 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2038%20S2.jpg)
 
 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
 ![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2040%20S2.jpg)
 
 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
 a) El número de resistores 
+
 b) El valor de cada resistor
+
 c) La corriente en cada rama 
+
 d) El voltaje aplicado
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2042%20S2.jpg)
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
@@ -258,12 +259,16 @@ d) El voltaje aplicado
 ![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2046%20S2.jpg)
 
 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
 a) 1 y 2 
+
 b) 2 y 3 
+
 c) 3 y 4 
+
 d) 1 y 4
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2048%20S2.jpg)
 
 VIDEO
 
