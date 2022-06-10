@@ -235,7 +235,7 @@ SECCIÓN 6-1
 
 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
-![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2030%20S2.jpg)
+![](
 
 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
@@ -255,7 +255,7 @@ d) El voltaje aplicado
 
 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 
-![](
+![](https://github.com/MelanyArmas/Tarea-3/blob/main/EJ%2046%20S2.jpg)
 
 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 a) 1 y 2 
