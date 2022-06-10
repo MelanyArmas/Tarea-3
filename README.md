@@ -272,7 +272,7 @@ d) 1 y 4
 
 VIDEO
 
-
+https://youtu.be/Dx02j49LlcU
 
 CONCLUSIONES Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos  5 y 6, se pudo determinar que es necesario conocer la ley de ohm apliacada en circuitos en serie y paralelo, así como tambien se debe conocer la potencia en circuitos en serie y paralelo y las leyes de Kirchhoff para llegar a los resultdos correctos.
 
